@@ -1,0 +1,92 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin:  auto;
+	font-size: 62.5%;
+    background-image: url("images/vegan.jpg");
+    background-repeat: repeat-y;
+}
+iframe{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+main
+ {
+	background-color: rgb(215, 231, 241);
+	font-size: 1.6em;
+
+}
+
+header
+ {
+    font-size: 1.6em;
+    text-align: center;
+    padding: 1.875em 0;
+    background-color: beige;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+main h2 {
+    padding: 0.625em 0 0.625em 0.625em;
+    font-size: 3em;
+}
+
+
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
+
+p {
+    padding: 1.25em;
+    font-size: 1.5.0em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+#intro{ 
+    font-size: 2.0em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+
+
+
+
